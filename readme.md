@@ -9,10 +9,10 @@ RouthHurwitzSym(G)
 ```
 
 will give
-```tex 
+
 \left(\begin{array}{cc}
 5 & 22500\,K\\
 1306 & 0\\
 22500\,K & 0
 \end{array}\right)
-```
+
